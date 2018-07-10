@@ -1,7 +1,5 @@
 /*
 Name: Mohammed Moiz ul haq
-Section: C
-cms id: 207749
 Name of assignment: Tic Tac Toe
 concepts involved: OOP (objects,classes,functions,constructors,enum,arrays)
 Difficulties faced: In making the logic of the function for the winning condition
